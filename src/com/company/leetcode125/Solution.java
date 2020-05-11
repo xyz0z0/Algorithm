@@ -13,8 +13,12 @@ public class Solution {
     public static void main(String[] args) {
         String text1 = "A man, a plan, a canal: Panama";
         String text2 = "race a car";
+        String text3 = "1221";
+        String text4 = "121";
         System.out.println(isPalindrome(text1));
         System.out.println(isPalindrome(text2));
+        System.out.println(isPalindrome(text3));
+        System.out.println(isPalindrome(text4));
     }
 
     public static boolean isPalindrome(String s) {
