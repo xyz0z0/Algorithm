@@ -17,7 +17,7 @@ public class Solution_2 {
         int j = 1;
         int sum = 0;
         List<int[]> res = new ArrayList<>();
-        while (i < target / 2) {
+        while (i <= target / 2) {
             if (sum < target) {
                 sum += j;
                 j = j + 1;
