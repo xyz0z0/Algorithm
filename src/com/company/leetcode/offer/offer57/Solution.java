@@ -1,6 +1,5 @@
 package com.company.leetcode.offer.offer57;
 
-import org.omg.CORBA.INTERNAL;
 
 import java.util.ArrayList;
 import java.util.Arrays;
